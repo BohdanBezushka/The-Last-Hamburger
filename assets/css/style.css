@@ -24,7 +24,7 @@ body{
 /* navigation links */
 
 #menu {
-    font-size: 140%;
+    font-size: 100%;
 }
 
 #logo, #menu{
@@ -38,6 +38,7 @@ body{
 }
 
 #menu a {
+    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     color:#ECEFF1;
     text-transform: uppercase;
@@ -45,4 +46,12 @@ body{
 
 #menu a:hover {
     color: #D32F2F ;
+}
+
+/*video*/
+
+#video-burger video {
+    height:500px;
+    width: 100%;
+    
 }
