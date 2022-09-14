@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Montserrat:wght@600;900&display=swap');
 
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
 body{
     font-family:'Crimson Pro', sans-serif ;
     color:#ECEFF1;
@@ -8,12 +14,19 @@ body{
 
 /* headings and logo */
 
+header {
+    background:black;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+
 #logo {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     float: left;
     font-size: 280%;
-    margin: 10px 0 0 10px;
+    margin: 0;
     color: #ECEFF1;
 }
 
@@ -48,10 +61,54 @@ body{
     color: #D32F2F ;
 }
 
-/*video*/
+/*Main video*/
 
 #video-burger video {
-    height:500px;
+    height:600px;
     width: 100%;
+}
+
+hr {
+    height: 10px;
+    background-color: #ECEFF1 !important;
     
+}
+
+/*Our History*/
+
+#block1 {
+    margin: 10px;
+    padding: 10px;
+    background: green;
+}
+
+#history1 {
+    background: yellow;
+    height: 100%;
+    width: 32%;
+    display: inline-block;
+    vertical-align:top;
+   
+}
+
+#block2 {
+    margin: 10px;
+    padding: 10px;
+    background: green;
+}
+
+#history2 {
+    background: yellow;
+    height: 100%;
+    width: 32%;
+    display: inline-block;
+    vertical-align:top;
+   
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    background: black;
 }
