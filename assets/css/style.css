@@ -109,6 +109,35 @@ hr {
 img {
     height: 100%;
     width: 100%;
-    object-fit: contain;
+    object-fit: contain !important;
     background: black;
+}
+
+
+/*Menu*/
+
+.main-title {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 280%;
+    padding-top: 20px;
+    letter-spacing: 4px;
+}
+
+.second-title {
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+.food{
+    list-style: none;
+    text-align: left;
+    padding-left: 30%;
+
+    font-size:160% ;
 }
