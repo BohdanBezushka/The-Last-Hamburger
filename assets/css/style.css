@@ -150,6 +150,12 @@ table{
     margin-top: 30px;
 }
 
+.table-info {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
 td {
     font-size: 160%;
     border:#ECEFF1 5px solid;
@@ -158,9 +164,10 @@ td {
 
 /*Address PROBLEM----------------------------------------------------------------------------------------------------------------*/
 
-.address{
-    width: 450px;
-    height: 450px;
+.address iframe{
+    padding-top:30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*Footer*/
