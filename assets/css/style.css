@@ -19,6 +19,8 @@ header {
     width: 100%;
     position: fixed;
     z-index: 100;
+    top:0;
+
   }
 
 #logo {
@@ -63,6 +65,10 @@ header {
 }
 
 /*Main video*/
+
+#video-section{
+    
+}
 
 #video-burger video {
     height:600px;
