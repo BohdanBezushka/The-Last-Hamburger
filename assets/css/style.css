@@ -20,7 +20,6 @@ header {
     position: fixed;
     z-index: 100;
     top:0;
-
   }
 
 #logo {
@@ -65,10 +64,6 @@ header {
 }
 
 /*Main video*/
-
-#video-section{
-    
-}
 
 #video-burger video {
     height:600px;
@@ -219,4 +214,33 @@ footer{
 .copyright a:hover{
     color:#D32F2F;
     font-size: 160%;
+}
+
+/*Gallery*/
+
+#images-gallery{
+    display:flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#element{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    margin:5px;
+    border:5px #ECEFF1 solid;
+}
+
+#element img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.efect h2{
+    text-align: center;
+    font-style: italic;
 }
