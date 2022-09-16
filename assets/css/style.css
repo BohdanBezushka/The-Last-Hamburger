@@ -244,3 +244,18 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+/*Free Burger*/
+
+#free-burger div {
+    width: 100%;
+    height: 100%;
+    
+}
+
+div .hand-burger{
+    position: relative;
+    left: 30%;
+    width: 66%;
+    height: 66%;
+}

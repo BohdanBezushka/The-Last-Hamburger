@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Last Hamburger is the best restaurant because we have the best meat and work team.">
+    <meta name="keywords" content="the last hamburger, last hamburger, quality hamburger, best hamburger restaurant">
+
+    <!--Stylesheet-->
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
+
+    <title>The Last Hamburger</title>
+</head>
+<body>
+
+    <!--Header-->
+
+    <header>
+        <a href="/index.html">
+            <h1 id="logo">The Last Hamburger.</h1>
+        </a>
+
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="#">Free burger</a>
+                </li>
+                <li>
+                    <a href="/gallery.html">Gallery</a>
+                </li>
+
+                <li>
+                    <a href="#contact">Contact</a>
+                </li>
+                <li>
+                    <a href="#section2">Menu</a>
+                </li>
+                <li>
+                    <a href="#section1">Our Story</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!--Free Burger Form-->
+
+    <section>
+        <div id="free-burger">
+
+            <img class="hand-burger" src="/assets/css/images/free-burger.jpg" alt="a hamburger in a hand">
+
+            <form action="bbezushka@gmail.com" method="POST">
+                <fieldset>
+                    <legend>Your details</legend>
+            
+                    <div class="details">
+                        <label for="name" class="details-customer">Name</label>
+                        <input id="name" type="text" name="full_name" placeholder="Your name" required>
+                    </div>
+                    <div class="details">
+                        <label for="email" class="details-customer">Email</label>
+                        <input id="email" type="email" name="email" placeholder="Your email" required>
+                    </div>
+                    
+                    <div class="details">
+                        <label for="age" class="details-customer">Age</label>
+                        <input type="number" id="age" name="age"  min="0" max="100" value="0" required>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Our menu</legend>
+                    <div class="details">
+                        <label for="fav-burger" class="details-customer">What is your favourite Burger?</label>
+                        <input id="fav-burger" list="burgers" name="fav-burger" required>
+                        <datalist id="burgers">
+                            <option value="Basic">
+                            <option value="Double Basic">
+                            <option value="Texas">
+                            <option value="The Last Hamburger">
+                        </datalist>
+                    </div>
+
+                    <div class="details">
+                        <label for="often-visit" class="details-customer">How often do you visit The Last Hamburger?</label>
+                        <input id="often-visit" list="days-per-week" name="often-visit" required>
+                        <datalist id="days-per-week">
+                            <option value="1">
+                            <option value="2">
+                            <option value="3">
+                            <option value="+3">
+                        </datalist>
+                    </div>
+        
+                    <p>Which of our Appetizers do you prefer?</p>
+                    <div>
+                        <input type="checkbox" id="nachos-checkbox" name="nachos">
+                        <label for="nachos-checkbox">Nachos</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="fries-checkbox" name="fries">
+                        <label for="fries-checkbox">Fries</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="sweet-fries-checkbox" name="sweet-fries">
+                        <label for="sweet-fries-checkbox">Sweet Fries</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="ribs-checkbox" name="ribs">
+                        <label for="ribs-checkbox">Ribs</label>
+                    </div>	
+                </fieldset>
+
+                <fieldset>
+                    <legend>Feedback</legend>
+                    <label for="feedback" class="details-customer">How can we improve?</label>
+                    <br>
+                    <textarea id="feedback" rows="10" cols="90" name="feedback" required></textarea>
+                </fieldset>
+
+                <input type="submit" class="block-label" value="Send">
+            </form>
+        </div>
+
+    </section>
+
+    <hr>
+
+    <!--Footer-->
+    <footer >
+        <ul class="social-media">
+            <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+
+		<p class="copyright">Copyright © <a href="https://www.linkedin.com/in/bohdan-bezushka-perepelytsia/">Bohdan B.P.</a> 2022</p>
+    
+    </footer>
+
+    <!-- Font script -->
+    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
+</body>
+</html>
