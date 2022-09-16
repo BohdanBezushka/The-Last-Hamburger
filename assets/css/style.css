@@ -43,7 +43,7 @@ header {
 }
 
 #logo, #menu{
-    line-height: 50px;
+    line-height: 20px;
 }
 
 #menu li {
@@ -64,6 +64,10 @@ header {
 }
 
 /*Main video*/
+
+#video-section div{
+    margin-top: 60px;
+}
 
 #video-burger video {
     height:600px;
