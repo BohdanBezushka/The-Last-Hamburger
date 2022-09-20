@@ -50,24 +50,22 @@
     <section>
         <div id="free-burger">
 
-            <img class="hand-burger" src="/assets/css/images/free-burger.jpg" alt="a hamburger in a hand">
-
-            <form action="bbezushka@gmail.com" method="POST">
+            <form action="mailto:bbezushka@gmail.com" method="POST" class="signup-form" enctype="text/plain">
                 <fieldset>
                     <legend>Your details</legend>
             
                     <div class="details">
                         <label for="name" class="details-customer">Name</label>
-                        <input id="name" type="text" name="full_name" placeholder="Your name" required>
+                        <input class="input-details" id="name" type="text" name="full_name" placeholder="Your name" required>
                     </div>
                     <div class="details">
                         <label for="email" class="details-customer">Email</label>
-                        <input id="email" type="email" name="email" placeholder="Your email" required>
+                        <input class="input-details" id="email" type="email" name="email" placeholder="Your email" required>
                     </div>
                     
                     <div class="details">
                         <label for="age" class="details-customer">Age</label>
-                        <input type="number" id="age" name="age"  min="0" max="100" value="0" required>
+                        <input class="input-details" type="number" id="age" name="age"  min="0" max="100" value="0" required>
                     </div>
                 </fieldset>
 
@@ -75,7 +73,7 @@
                     <legend>Our menu</legend>
                     <div class="details">
                         <label for="fav-burger" class="details-customer">What is your favourite Burger?</label>
-                        <input id="fav-burger" list="burgers" name="fav-burger" required>
+                        <input class="input-details" id="fav-burger" list="burgers" name="fav-burger" required>
                         <datalist id="burgers">
                             <option value="Basic">
                             <option value="Double Basic">
@@ -86,7 +84,7 @@
 
                     <div class="details">
                         <label for="often-visit" class="details-customer">How often do you visit The Last Hamburger?</label>
-                        <input id="often-visit" list="days-per-week" name="often-visit" required>
+                        <input class="input-details" id="often-visit" list="days-per-week" name="often-visit" required>
                         <datalist id="days-per-week">
                             <option value="1">
                             <option value="2">
@@ -95,20 +93,23 @@
                         </datalist>
                     </div>
         
-                    <p>Which of our Appetizers do you prefer?</p>
-                    <div>
+                    <legend>Which of our Appetizers do you prefer?</legend>
+                    <div class="details">
                         <input type="checkbox" id="nachos-checkbox" name="nachos">
                         <label for="nachos-checkbox">Nachos</label>
                     </div>
-                    <div>
+
+                    <div class="details">
                         <input type="checkbox" id="fries-checkbox" name="fries">
                         <label for="fries-checkbox">Fries</label>
                     </div>
-                    <div>
+
+                    <div class="details">
                         <input type="checkbox" id="sweet-fries-checkbox" name="sweet-fries">
                         <label for="sweet-fries-checkbox">Sweet Fries</label>
                     </div>
-                    <div>
+
+                    <div class="details">
                         <input type="checkbox" id="ribs-checkbox" name="ribs">
                         <label for="ribs-checkbox">Ribs</label>
                     </div>	
@@ -116,9 +117,9 @@
 
                 <fieldset>
                     <legend>Feedback</legend>
-                    <label for="feedback" class="details-customer">How can we improve?</label>
+                    <label for="feedback" class="details-customer, details">How can we improve?</label>
                     <br>
-                    <textarea id="feedback" rows="10" cols="90" name="feedback" required></textarea>
+                    <textarea class="input-details" id="feedback" rows="10" cols="90" name="feedback" required></textarea>
                 </fieldset>
 
                 <input type="submit" class="block-label" value="Send">
