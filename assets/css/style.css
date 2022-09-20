@@ -250,8 +250,8 @@ footer{
 
 #images-gallery{
     display:flex;
-    width: 85%;
-    margin: auto;
+    width: 100%;
+    margin: 60px;
     justify-content: space-around;
     flex-wrap: wrap;
 }
