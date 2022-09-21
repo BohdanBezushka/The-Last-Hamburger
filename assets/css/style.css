@@ -342,3 +342,33 @@ footer{
 .block-label:hover{
     border: 5px solid black;
 }
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1240px wide and down */
+
+@media screen and (max-width: 1240px) {
+
+    #logo {
+        position: fixed;
+        left:18%;
+    }
+
+    #menu{
+        margin-top: 60px;
+    }
+
+    #menu li {
+        text-align: center;
+        float: none;
+        padding: 0;
+    }
+
+    #video-burger{
+        margin-top:165px;
+    }
+
+    #free-burger{
+        background: black;
+    }
+}
