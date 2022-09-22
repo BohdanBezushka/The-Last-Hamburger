@@ -1,4 +1,4 @@
-### The Last Hamburger 🍔
+# The Last Hamburger 🍔
 ------
 
 As I am a fanatic of hamburgers I decided to create a website for a hamburger restaurant. The website serves for the customer to know the history behind the creation of the restaurant, our menu with prices and another section where you can find our opening hours, location and contact.
@@ -9,12 +9,20 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 
 ## Contents
+-------
 
 
 ## Features
+-------
 
-# Existing Features
+### Existing Features
 
+- __Navigation Bar__
+
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Our History, Menu, Contact, Gallery and Free Burger page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+![Captura de pantalla (241)](https://user-images.githubusercontent.com/94321555/191841888-1424794b-875d-4a19-b18d-09a85e42c451.png)
 
 
 
