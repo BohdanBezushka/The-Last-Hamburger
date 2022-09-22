@@ -36,6 +36,24 @@ In addition the customer also has a gallery where he can see each dish of our me
   - The Our Story section will allow the user to get to know us in order to connect.
   - This user will see that the creators of the restaurant are passionate about hamburgers and that we offer quality.
 
+![Captura de pantalla (245)](https://user-images.githubusercontent.com/94321555/191847576-62d2700a-f857-4fb9-97c2-7af6ca0e80d5.png)
+
+- __Menu__
+
+   - The Menu section will allow the user to see our menu and the prices of each dish.
+
+![Captura de pantalla (247)](https://user-images.githubusercontent.com/94321555/191848235-0942eb74-f5a2-4692-b982-6e0e8961ca9b.png)
+
+- __Contact__
+
+  - The Contact section will allow the user to know the opening and closing hours, the address, the days we are open, a contact email and telephone number.
+  - The user also has a map where he/she can see the exact location of the restaurant.
+
+![Captura de pantalla (250)](https://user-images.githubusercontent.com/94321555/191849136-cc922a16-1c2b-4f40-9976-806c0e7d4079.png)
+
+![Captura de pantalla (251)](https://user-images.githubusercontent.com/94321555/191849278-06d2e060-4a77-46b0-a68c-bf37f287338a.png)
+(I have put as an example the location of the best hamburgeseria in Valencia, Spain 😍)
+
 
 
 
