@@ -24,6 +24,17 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ![Captura de pantalla (241)](https://user-images.githubusercontent.com/94321555/191841888-1424794b-875d-4a19-b18d-09a85e42c451.png)
 
+- __The landing page video__
+
+  - The landing page includes a video featuring a burger with the logo.
+  - This section introduces the user to The Last Hamburger with an eye-catching video featuring one of our succulent burger to capture their attention.
+
+![Captura de pantalla (243)](https://user-images.githubusercontent.com/94321555/191846433-d18fd968-2af1-4689-8c1c-4ecf6430e55e.png)
+
+- __Our History__
+
+  - The Our Story section will allow the user to get to know us in order to connect.
+  - This user will see that the creators of the restaurant are passionate about hamburgers and that we offer quality.
 
 
 
