@@ -207,6 +207,7 @@ hr {
 
 footer{
     height: 140px;
+    background: black;
 }
 
 .social-media{
@@ -280,7 +281,7 @@ footer{
     width: 100%;
     height: 100%;
     clear: left;
-    background: url(/assets/css/images/free-burger.jpg);
+    background: url(assets/css/images/free-burger.jpg);
     background-size: cover;
     background-position: center;
     height: 900px;
