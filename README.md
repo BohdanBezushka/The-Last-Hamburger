@@ -1,10 +1,15 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## The Last Hamburger 🍔
 
-Welcome Bohdan Bezushka Perepelytsia,
+As I am a fanatic of hamburgers I decided to create a website for a hamburger restaurant. The website serves for the customer to know the history behind the creation of the restaurant, our menu with prices and another section where you can find our opening hours, location and contact.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+In addition the customer also has a gallery where he can see each dish of our menu. Finally as it is a new restaurant I have created a form to get feedback from people and return them a free burger. The form serves to attract customers and to improve the quality of the restaurant.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+
+
+
+
+
+**September 1, 2021**
 
 ## Gitpod Reminders
 
