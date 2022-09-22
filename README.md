@@ -1,6 +1,6 @@
 # The Last Hamburger 🍔
 ------
-Link: https://bohdanbezushka.github.io/The-Last-Hamburger/free-burger.html
+Link: https://bohdanbezushka.github.io/The-Last-Hamburger/index.html
 ------
 As I am a fanatic of hamburgers I decided to create a website for a hamburger restaurant. The website serves for the customer to know the history behind the creation of the restaurant, our menu with prices and another section where you can find our opening hours, location and contact.
 
