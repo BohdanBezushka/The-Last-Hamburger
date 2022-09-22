@@ -350,13 +350,13 @@ footer{
 
 @media screen and (max-width: 1240px) {
 
-    #logo {
-        display: block;
-        margin: 0 auto;
+    .header-logo {
+        text-decoration: none;
     }
 
-    #menu{
-        margin-top: 60px;
+    #logo {
+        float: none;
+        text-align: center;
     }
 
     #menu li {
@@ -379,5 +379,12 @@ footer{
     #history2 {
         display: block;
         margin: 0 auto;
+    }
+}
+
+/* For small screens sizes from 615px wide and down */
+@media screen and (max-width: 615px){
+    #logo {
+        font-size: 150%;   
     }
 }
