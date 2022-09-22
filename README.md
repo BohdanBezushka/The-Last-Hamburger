@@ -68,6 +68,12 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ![Captura de pantalla (256)](https://user-images.githubusercontent.com/94321555/191854157-b1aa9202-724a-4bdf-a6b6-2dae2ed82b8f.png)
 
+- __Free Burger__
+
+  - The Free Burger section will allow the user to receive a ticket to receive a free burger if he/she completes and submits the form.
+  - The feedback helps the restaurant to improve and also attracts a customer who can order dishes in addition to the free burger.
+
+![Captura de pantalla (258)](https://user-images.githubusercontent.com/94321555/191858325-5363a2e3-0f81-4cd1-868b-77b533a3918e.png)
 
 
 
