@@ -54,6 +54,20 @@ In addition the customer also has a gallery where he can see each dish of our me
 ![Captura de pantalla (252)](https://user-images.githubusercontent.com/94321555/191850131-bd096433-5459-4f66-8034-ee65efbf4d59.png)
 (I have put as an example the location of the best hamburgeseria in Valencia, Spain 😍)
 
+- __Footer__
+
+  - The Footer section will allow the user to go to the social networks, a second window will be opened.
+  - The user or interested person also has information about the creator of the website and links to GitHub and Linkedin.
+
+![Captura de pantalla (254)](https://user-images.githubusercontent.com/94321555/191851430-2373e745-fe5a-417d-a118-6b8a8e2dfa6b.png)
+
+- __Gallery__
+
+  - The Gallery section will allow the user to see photos of the restaurant and of each dish on the menu.
+  - The user can identify each dish because each photo has a description below.
+
+![Captura de pantalla (256)](https://user-images.githubusercontent.com/94321555/191854157-b1aa9202-724a-4bdf-a6b6-2dae2ed82b8f.png)
+
 
 
 
