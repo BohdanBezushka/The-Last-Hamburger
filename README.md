@@ -91,7 +91,7 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ![Captura de pantalla (264)](https://user-images.githubusercontent.com/94321555/191876888-80f2dc84-13b1-4856-9327-4897a79fd524.png)
 
-  - The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Clipchamp for the video.
+  - The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Videosmaller for the video.
 
 
 
