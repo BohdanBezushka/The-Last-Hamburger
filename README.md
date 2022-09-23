@@ -76,6 +76,11 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ![Captura de pantalla (258)](https://user-images.githubusercontent.com/94321555/191858325-5363a2e3-0f81-4cd1-868b-77b533a3918e.png)
 
+## Testing
+
+  - The website has been successfully tested on my own laptop on the following search engines:
+
+![Captura de pantalla (260)](https://user-images.githubusercontent.com/94321555/191873118-2d6a0312-606e-4f22-89b0-7f942770d2e8.png)
 
 
 
