@@ -78,9 +78,21 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ## Testing
 
-  - The website has been successfully tested on my own laptop on the following search engines:
+  - The website has been successfully tested on my own laptop on the following browsers:
 
 ![Captura de pantalla (260)](https://user-images.githubusercontent.com/94321555/191873118-2d6a0312-606e-4f22-89b0-7f942770d2e8.png)
+
+  - All links have been checked to ensure that they work and redirect correctly. In addition, 2 Slack users from the "project-portfolio-1" channel and 2 of my             relatives have verified that the page works correctly.
+  - The Free Burger form submission button works correctly using two different email addresses.
+
+## Bugs
+
+  - The Lighthouse test has given a negative result on performance:
+
+![Captura de pantalla (264)](https://user-images.githubusercontent.com/94321555/191876888-80f2dc84-13b1-4856-9327-4897a79fd524.png)
+
+  - The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Clipchamp for the video.
+
 
 
 
