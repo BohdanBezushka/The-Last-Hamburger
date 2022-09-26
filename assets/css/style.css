@@ -470,9 +470,43 @@ footer{
     }
 }
 
-/* For small screens sizes from 615px wide and down */
-@media screen and (max-width: 615px){
-    #logo {
-        font-size: 150%;   
+/* For small screens sizes from 700px wide and down */
+@media screen and (max-width: 700px){
+    #logo, #main-title-section1, .main-title {
+        font-size: 190%;   
+    }
+
+    .second-title{
+        font-size: 150%;
+    }
+
+    .info, .info2, .copyright {
+        font-size: 120%;
+    }
+
+    .social-media li {
+        font-size: 170% ;
+    }
+}
+
+/* For small screens sizes from 500px wide and down */
+@media screen and (max-width: 500px){
+    .menu-button-container{
+        width: 60px;
+    }
+    #logo, #main-title-section1, .main-title {
+        font-size: 160%;   
+    }
+
+    .second-title{
+        font-size: 110%;
+    }
+
+    .info, .info2, .copyright {
+        font-size: 90%;
+    }
+
+    .social-media li {
+        font-size: 140% ;
     }
 }
