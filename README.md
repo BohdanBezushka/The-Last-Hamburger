@@ -107,7 +107,8 @@ Desktop
 ![Captura de pantalla (279)](https://user-images.githubusercontent.com/94321555/192563569-3260fccc-e718-41fd-94a7-605c7622a57c.png)
 
 Mobile
-![Captura de pantalla (280)](https://user-images.githubusercontent.com/94321555/192563756-da79462f-fd16-44fe-8f3b-4a43d139eae7.png)
+![Captura de pantalla (286)](https://user-images.githubusercontent.com/94321555/192655643-9738b0c1-12df-4fd3-8fb4-ac0d0acf77c7.png)
+
 
 ## Validator Testing
 
