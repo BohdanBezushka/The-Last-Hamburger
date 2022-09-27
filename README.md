@@ -14,6 +14,12 @@ In addition the customer also has a gallery where he can see each dish of our me
 -------
 
 
+
+##User Experience - UX
+
+###User Stories
+- 
+
 ## Features
 -------
 
@@ -100,6 +106,19 @@ Mobile
 ## Validator Testing
 
 - CSS:no errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbohdanbezushka.github.io%2FThe-Last-Hamburger%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![Captura de pantalla (282)](https://user-images.githubusercontent.com/94321555/192651459-c422cc6f-8220-4416-a54b-89ba4b2c1981.png)
+
+##Unfixed Bugs
+
+- HTML:Three errors were returned when passing through the official W3C validator [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbohdanbezushka.github.io%2FThe-Last-Hamburger%2Findex.html)
+
+![Captura de pantalla (284)](https://user-images.githubusercontent.com/94321555/192652735-14590295-cac4-42bf-8b13-3c2e0ec316d9.png)
+
+1.The bug has not been fixed because it would not be possible to make the navigation bar in the form of an icon for mobile phones and small screens.
+
+2.The width has to be 100% for the map to look correct on the web page and to adapt to the different screens.
+
 
 
 
