@@ -15,10 +15,16 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 
 
-##User Experience - UX
+## User Experience - UX
 
-###User Stories
-- 
+### User Stories
+- As the creator of the website I want to design a website that allows the client to have a presence on the internet and at the same time let regular and new customers know about the restaurant and its updates.
+
+- As a new visitor, I want to get to know the restaurant, see its dishes, contact information, location and opening hours.
+
+- As a regular visitor I want to be kept up to date with news and have a telephone and email available for booking.
+
+## Design
 
 ## Features
 -------
