@@ -89,11 +89,15 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ## Bugs
 
-  - The Lighthouse test has given a negative result on performance:
+  - The Lighthouse test has given a negative result on mobile and desktop performance. The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Videosmaller for the video. The path to the HTML files has also been changed. Below you can see the results of Lighthouse on desktop and mobile:
 
-![Captura de pantalla (264)](https://user-images.githubusercontent.com/94321555/191876888-80f2dc84-13b1-4856-9327-4897a79fd524.png)
+Desktop
+![Captura de pantalla (279)](https://user-images.githubusercontent.com/94321555/192563569-3260fccc-e718-41fd-94a7-605c7622a57c.png)
 
-  - The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Videosmaller for the video.
+Mobile
+![Captura de pantalla (280)](https://user-images.githubusercontent.com/94321555/192563756-da79462f-fd16-44fe-8f3b-4a43d139eae7.png)
+
+
 
 
 
