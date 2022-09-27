@@ -175,7 +175,7 @@ hr {
     padding: 10px;
 }
 
-#history2 {
+.history2 {
     height: 100%;
     width: 33.1%;
     display: inline-block;
@@ -187,21 +187,21 @@ hr {
     padding: 10px;
 }
 
-#history2 h2 {
+.history2 h2 {
     text-align: center;
     padding: 10px;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
 }
 
-#history2 p{
+.history2 p{
     font-size: 25px;
     text-align: center;
     margin: 2%;
     padding: 2%;
 }
 
-#history2 img {
+.history2 img {
     height: 100%;
     width: 100%;
     object-fit: contain;
@@ -474,7 +474,7 @@ footer{
 
 /* For medium screens sizes from 920px wide and down */
 @media screen and (max-width: 920px){
-    #history2 {
+    .history2 {
         display: grid;
         width: 100%;
     }
