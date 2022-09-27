@@ -6,7 +6,8 @@ As I am a fanatic of hamburgers I decided to create a website for a hamburger re
 
 In addition the customer also has a gallery where he can see each dish of our menu. Finally as it is a new restaurant I have created a form to get feedback from people and return them a free burger. The form serves to attract customers and to improve the quality of the restaurant.
 
-![The website](https://user-images.githubusercontent.com/94321555/191839855-38389f4f-7d07-444e-a81b-b6df7b677086.png)
+![Captura de pantalla (272)](https://user-images.githubusercontent.com/94321555/192560278-355cf751-78be-442d-9a40-ce97374616ea.png)
+
 
 
 ## Contents
@@ -20,10 +21,11 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Our History, Menu, Contact, Gallery and Free Burger page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home, Gallery and Free Burger page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Captura de pantalla (241)](https://user-images.githubusercontent.com/94321555/191841888-1424794b-875d-4a19-b18d-09a85e42c451.png)
+![Captura de pantalla (274)](https://user-images.githubusercontent.com/94321555/192560757-116562ea-de92-40bb-bf2a-7db1296db2ce.png)
+
 
 - __The landing page video__
 
@@ -67,7 +69,7 @@ In addition the customer also has a gallery where he can see each dish of our me
   - The Gallery section will allow the user to see photos of the restaurant and of each dish on the menu.
   - The user can identify each dish because each photo has a description below.
 
-![Captura de pantalla (256)](https://user-images.githubusercontent.com/94321555/191854157-b1aa9202-724a-4bdf-a6b6-2dae2ed82b8f.png)
+![Captura de pantalla (276)](https://user-images.githubusercontent.com/94321555/192561172-d1c5f67e-d532-4bdd-90a8-ac1ca7c51f1b.png)
 
 - __Free Burger__
 
