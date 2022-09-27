@@ -20,6 +20,7 @@ header {
     position: fixed;
     z-index: 100;
     top:0;
+    color: #ECEFF1;
   }
 
 /* navigation links */
@@ -85,6 +86,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: #ECEFF1;
 }
   
 #menu-toggle {
@@ -95,7 +97,7 @@ header {
   .menu-button::before,
   .menu-button::after {
     display: block;
-    background-color: #fff;
+    background-color: #ECEFF1;
     position: absolute;
     height: 4px;
     width: 30px;
