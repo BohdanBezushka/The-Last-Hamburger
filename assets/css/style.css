@@ -320,27 +320,35 @@ footer{
 /*Gallery*/
 
 #images-gallery{
-    display:flex;
-    margin: 60px;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-
-#element{
-    width: 50%;
-    height: 100%;
-    margin:5px;
-    border:5px #ECEFF1 solid;
-}
-
-#element img{
     width: 100%;
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 250px;
+    grid-gap:30px;
+    padding: 2%;
+}
+
+.element{
+    border: 2px solid #ECEFF1;
+}
+
+.efect{
+    width: 100%;
+    height:100%;
+}
+
+.efect img{
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 }
 
 .efect h2{
     text-align: center;
-    font-style: italic;
 }
 
 /*Free Burger*/
@@ -468,6 +476,11 @@ footer{
         display: grid;
         width: 100%;
     }
+
+    #images-gallery{
+        grid-template-columns: repeat(2, 1fr);
+        
+    }
 }
 
 /* For small screens sizes from 700px wide and down */
@@ -486,6 +499,10 @@ footer{
 
     .social-media li {
         font-size: 170% ;
+    }
+
+    #images-gallery{
+        grid-template-columns: repeat(1, 1fr);
     }
 }
 
