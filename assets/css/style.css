@@ -140,6 +140,7 @@ header {
     height: 0px;
     width: 100%;   
     padding-bottom: 56.25%;
+    margin-top: 3%;
 }
 #video-burger video {
     position: absolute;
@@ -479,6 +480,10 @@ footer{
         grid-template-columns: repeat(2, 1fr);
         
     }
+
+    #video-burger{
+        margin-top: 5%;
+    }
 }
 
 /* For small screens sizes from 700px wide and down */
@@ -502,6 +507,9 @@ footer{
     #images-gallery{
         grid-template-columns: repeat(1, 1fr);
     }
+    #video-burger{
+        margin-top: 12%;
+    }
 }
 
 /* For small screens sizes from 500px wide and down */
@@ -523,5 +531,9 @@ footer{
 
     .social-media li {
         font-size: 140% ;
+    }
+
+    #video-burger{
+        margin-top: 20%;
     }
 }
