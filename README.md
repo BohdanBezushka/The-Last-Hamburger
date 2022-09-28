@@ -34,6 +34,11 @@ The Last Hamburger website is a three-page site: Home, Gallery and Free Burger. 
 
 ![Captura de pantalla (290)](https://user-images.githubusercontent.com/94321555/192810057-b1c96ecc-2106-4591-8d03-063eaa36ba9e.png)
 ![Captura de pantalla (292)](https://user-images.githubusercontent.com/94321555/192810642-9e3db381-760c-432f-ac69-d5ed758731de.png)
+![Captura de pantalla (294)](https://user-images.githubusercontent.com/94321555/192811306-ff7aff8e-57aa-4507-99fe-7306298b1639.png)
+
+The #000000 has been used for the background and #ECEFF1 for the text. And the colour #D32F2F has been used to mark the form and also for the "Hover" function.
+
+### Typography
 
 
 
