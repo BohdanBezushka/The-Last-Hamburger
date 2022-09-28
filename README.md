@@ -32,6 +32,9 @@ The Last Hamburger website is a three-page site: Home, Gallery and Free Burger. 
 
 ### Colour Scheme
 
+![Captura de pantalla (290)](https://user-images.githubusercontent.com/94321555/192810057-b1c96ecc-2106-4591-8d03-063eaa36ba9e.png)
+![Captura de pantalla (292)](https://user-images.githubusercontent.com/94321555/192810642-9e3db381-760c-432f-ac69-d5ed758731de.png)
+
 
 
 ## Features
