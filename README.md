@@ -181,13 +181,13 @@ Mobile
 
 The website development was created in the "main" branch. This branch was deployed using GitHub Pages. This site was deployed by completing the following steps:
 
-1.Open GitHub.
-2.Click on the project to be deployed.
-3.Navigate to the "Settings".
-4.Navigate down to the "GitHub Pages".
-5.Click on "Check it out here!".
-6.Select the "main" branch and select "Save".
-7.The link to the live website was ready on the top.
+1. Open GitHub.
+2. Click on the project to be deployed.
+3. Navigate to the "Settings".
+4. Navigate down to the "GitHub Pages".
+5. Click on "Check it out here!".
+6. Select the "main" branch and select "Save".
+7. The link to the live website was ready on the top.
 
 
 
