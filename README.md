@@ -118,7 +118,7 @@ Mobile
 
 ![Captura de pantalla (282)](https://user-images.githubusercontent.com/94321555/192651459-c422cc6f-8220-4416-a54b-89ba4b2c1981.png)
 
-##Unfixed Bugs
+## Unfixed Bugs
 
 - HTML:Three errors were returned when passing through the official W3C validator [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbohdanbezushka.github.io%2FThe-Last-Hamburger%2Findex.html)
 
