@@ -22,14 +22,16 @@ In addition the customer also has a gallery where he can see each dish of our me
   * [Google Maps](#Google-Maps)
   * [Interactive Links](#Interactive-Links)
 * [Features](#Features)
+  * [Existing Features](#Existing-Features)
+* [Testing](#Testing)
+* [Bugs](#Bugs)
+* [Validator Testing](#Validator-Testing)
+* [Unfixed Bugs](#Unfixed-Bugs)
+* [Technologies Used](#Technologies-Used)
+  * [Languages Used](#Languages-Used)
+  * [Frameworks - Libraries - Programs Used](#Framewors)
 
-
-
-
-
-
-
-## User Experience - UX
+## User experience - UX
 
 ### User Stories
 - As the creator of the website I want to design a website that allows the client to have a presence on the internet and at the same time let regular and new customers know about the restaurant and its updates.
