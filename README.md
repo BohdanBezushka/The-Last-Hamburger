@@ -29,7 +29,7 @@ In addition the customer also has a gallery where he can see each dish of our me
 * [Unfixed Bugs](#Unfixed-Bugs)
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
-  * [Frameworks - Libraries - Programs Used](#Framewors)
+  * [Frameworks - Libraries - Programs Used](#Framewors-Libraries-Programs-Used)
 
 ## User experience - UX
 
