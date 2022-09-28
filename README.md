@@ -12,6 +12,8 @@ In addition the customer also has a gallery where he can see each dish of our me
 -------
 
 * [User Experience - UX](#User-Experience)
+  * [User Stories](#User-Stories)
+* [Design](#Design)
 
 
 
