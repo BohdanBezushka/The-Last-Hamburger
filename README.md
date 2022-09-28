@@ -26,6 +26,14 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ## Design
 
+### Website Structure
+
+The Last Hamburger website is a three-page site: Home, Gallery and Free Burger. The default loading page is Home (index.html). The home page has 4 sections: (1) an introductory video, (2) Our History, (3) Menu, (4) Contact. The Home page is linked to all pages of the website via the navigation menu at the top. The Gallery has photos showing the restaurant's dishes and some photos of the restaurant itself.  The Free Burger page is a form to receive feedback from customers. Each page is linked to all the pages of the website via the navigation menu at the top and all have the Footer.
+
+### Colour Scheme
+
+
+
 ## Features
 -------
 
