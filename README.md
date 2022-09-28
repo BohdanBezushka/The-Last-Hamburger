@@ -189,7 +189,14 @@ The website development was created in the "main" branch. This branch was deploy
 6. Select the "main" branch and select "Save".
 7. The link to the live website was ready on the top.
 
+## Credits
 
+### Information Sources/Resources
+
+- [Navigation bar](https://codepen.io/alvarotrigo/pen/MWEJEWG)
+- [W3Schools](https://www.w3schools.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 
