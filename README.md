@@ -8,10 +8,13 @@ In addition the customer also has a gallery where he can see each dish of our me
 
 ![Captura de pantalla (272)](https://user-images.githubusercontent.com/94321555/192560278-355cf751-78be-442d-9a40-ce97374616ea.png)
 
-
-
 ## Contents
 -------
+
+
+
+
+
 
 
 
@@ -161,7 +164,30 @@ Mobile
 
 2.The width has to be 100% for the map to look correct on the web page and to adapt to the different screens.
 
+## Technologies Used
 
+### Languages Used
+- HTML5
+- CSS3
+
+### Frameworks - Libraries - Programs Used
+- Google fonts were used to import the 'Montserrat' and 'Crimson Pro' fonts throughout the style.css.
+- Font Awesome are used as an icons for user UX purposes.
+- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- GitHub is used to store the project's code after being pushed from Git.
+- Canva was used to create the video with the restaurant logo and also to create the background photo of the form.
+
+## Deployment of This Project
+
+The website development was created in the "main" branch. This branch was deployed using GitHub Pages. This site was deployed by completing the following steps:
+
+1.Open GitHub.
+2.Click on the project to be deployed.
+3.Navigate to the "Settings".
+4.Navigate down to the "GitHub Pages".
+5.Click on "Check it out here!".
+6.Select the "main" branch and select "Save".
+7.The link to the live website was ready on the top.
 
 
 
