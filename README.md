@@ -29,7 +29,12 @@ In addition the customer also has a gallery where he can see each dish of our me
 * [Unfixed Bugs](#Unfixed-Bugs)
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
-  * [Frameworks - Libraries - Programs Used](#Framewors-Libraries-Programs-Used)
+  * [Programs Used](#Programs-Used)
+* [Credits](#Credits)
+  * [Information Sources/Resources](#Information-Sources/Resources)
+  * [Media](#Media)
+* [Special Thanks](#Special-Thanks)
+
 
 ## User experience - UX
 
@@ -183,7 +188,7 @@ Mobile
 - HTML5
 - CSS3
 
-### Frameworks - Libraries - Programs Used
+### Programs Used
 - Google fonts were used to import the 'Montserrat' and 'Crimson Pro' fonts throughout the style.css.
 - Font Awesome are used as an icons for user UX purposes.
 - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
