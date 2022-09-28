@@ -40,7 +40,23 @@ The Last Hamburger website is a three-page site: Home, Gallery and Free Burger. 
 The #000000 has been used for the background and #ECEFF1 for the text. And the colour #D32F2F has been used to mark the form and also for the "Hover" function.
 
 ### Typography
+Montserrat is used for titles and Crimson Pro is used for the rest of the website.
 
+### Photos
+
+6 images have been used in the Our History section, 12 images in the Gallery and 1 background image on the Free Burger page. 
+
+### Videos
+
+The Landing Page has one video as a background displaying muted, loop and autoplay.
+
+### Google Maps
+
+The web site has a Google Maps location section where the users can locate the restaurant in Valencia, Spain.
+
+### Interactive Links
+
+In the Footer, users can access the links to the restaurant's social networks (Facebook, Twitter and Instagram). Once these icons are clicked, they open in a new tab
 
 
 ## Features
