@@ -198,6 +198,15 @@ The website development was created in the "main" branch. This branch was deploy
 - [Stack Overflow](https://stackoverflow.com/)
 - [CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+### Media
+- All the text content is original.
+- The video and photos are from [Pexels](https://www.pexels.com/) and [Canva](https://www.canva.com/).
+
+## Special Thanks
+
+Special thanks to my mentor Mitko Bachvarov [Mitko Bachvarov](https://www.linkedin.com/in/mitko-bachvarov-40b50776/)  and my colleagues at the [Code Institute](https://codeinstitute.net/ie/).
+
+
 
 
 
