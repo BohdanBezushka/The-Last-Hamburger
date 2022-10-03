@@ -50,15 +50,10 @@ header {
     text-decoration: none;
 }
 
-#logo:hover {
-    color:#D32F2F;
-}
-
 .menu {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    margin: 2%;
     padding: 0;
   }
   
@@ -456,7 +451,7 @@ footer{
         justify-content: center;
         margin: 0;
         padding: 0.5em 0;
-        width: 110%;
+        width: 100%;
         color: white;
         background-color:black;
       }
