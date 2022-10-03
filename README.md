@@ -11,7 +11,7 @@ In addition the customer also has a gallery where he can see each dish of our me
 ## Contents
 -------
 
-* [User Experience - UX](#User-Experience)
+* [User Experience - UX](#User-Experience---UX)
   * [User Stories](#User-Stories)
 * [Design](#Design)
   * [Website Structure](#Website-Structure)
@@ -31,9 +31,9 @@ In addition the customer also has a gallery where he can see each dish of our me
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
   * [Programs Used](#Programs-Used)
-* [Deployment of This Project](#Deployment-of-This-Projectsed)
+* [Deployment of This Project](#Deployment-of-This-Project)
 * [Credits](#Credits)
-  * [Information Sources/Resources](#Information-Sources/Resources)
+  * [Information Sources/Resources](#Information-Sources-/-Resources)
   * [Media](#Media)
 * [Special Thanks](#Special-Thanks)
 
