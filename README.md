@@ -33,7 +33,7 @@ In addition the customer also has a gallery where he can see each dish of our me
   * [Programs Used](#Programs-Used)
 * [Deployment of This Project](#Deployment-of-This-Project)
 * [Credits](#Credits)
-  * [Information Sources/Resources](#Information-Sources-/-Resources)
+  * [Information Resources](#Information-Resources)
   * [Media](#Media)
 * [Special Thanks](#Special-Thanks)
 
@@ -213,7 +213,7 @@ The website development was created in the "main" branch. This branch was deploy
 
 ## Credits
 
-### Information Sources/Resources
+### Information Resources
 
 - [Navigation bar](https://codepen.io/alvarotrigo/pen/MWEJEWG)
 - [W3Schools](https://www.w3schools.com/)
