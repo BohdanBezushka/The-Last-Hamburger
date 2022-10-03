@@ -24,12 +24,14 @@ In addition the customer also has a gallery where he can see each dish of our me
 * [Features](#Features)
   * [Existing Features](#Existing-Features)
 * [Testing](#Testing)
-* [Bugs](#Bugs)
-* [Validator Testing](#Validator-Testing)
+  * [Lighthouse](#Lighthouse)
+  * [Validator Testing](#Validator-Testing)
+* [Bugs](#Bugs) 
 * [Unfixed Bugs](#Unfixed-Bugs)
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
   * [Programs Used](#Programs-Used)
+* [Deployment of This Project](#Deployment-of-This-Projectsed)
 * [Credits](#Credits)
   * [Information Sources/Resources](#Information-Sources/Resources)
   * [Media](#Media)
@@ -153,7 +155,7 @@ In the Footer, users can access the links to the restaurant's social networks (F
   - All links have been checked to ensure that they work and redirect correctly. In addition, 2 Slack users from the "project-portfolio-1" channel and 2 of my             relatives have verified that the page works correctly.
   - The Free Burger form submission button works correctly using two different email addresses.
 
-## Bugs
+### Lighthouse
 
   - The Lighthouse test has given a negative result on mobile and desktop performance. The problem has been solved by optimising the images and the video. TinyPNG has been used for the images and Videosmaller for the video. The path to the HTML files has also been changed. Below you can see the results of Lighthouse on desktop and mobile:
 
@@ -166,11 +168,13 @@ Mobile
 ![Captura de pantalla (286)](https://user-images.githubusercontent.com/94321555/192655643-9738b0c1-12df-4fd3-8fb4-ac0d0acf77c7.png)
 
 
-## Validator Testing
+### Validator Testing
 
 - CSS:no errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbohdanbezushka.github.io%2FThe-Last-Hamburger%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ![Captura de pantalla (282)](https://user-images.githubusercontent.com/94321555/192651459-c422cc6f-8220-4416-a54b-89ba4b2c1981.png)
+
+## Bugs
 
 ## Unfixed Bugs
 
