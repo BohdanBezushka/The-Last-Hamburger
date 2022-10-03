@@ -176,6 +176,9 @@ Mobile
 
 ## Bugs
 
+When I uploaded my project to GitHub Pages the CSS didn't appeared. The problem was that I wasn't using relative paths: 
+![Captura de pantalla (296)](https://user-images.githubusercontent.com/94321555/193653630-60ea01e1-2b3b-46d7-841c-2e8eed377f09.png)
+
 ## Unfixed Bugs
 
 - HTML:Three errors were returned when passing through the official W3C validator [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbohdanbezushka.github.io%2FThe-Last-Hamburger%2Findex.html)
